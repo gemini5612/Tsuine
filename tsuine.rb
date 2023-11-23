@@ -98,3 +98,4 @@
                                                                                                                                                     209)?10:"")};o.rstrip!;o[-6
                                                                                                                                                       ,6]=""<<39<<".join";pu
                                                                                                                                                            ts(o)#'.join
+©2023 Gemini All Rights Reserved
